@@ -1,0 +1,18 @@
+{
+  "name": "mcp-sequential-thinking",
+  "version": "1.0.0",
+  "description": "Implementação do MCP Sequential Thinking para melhorar o raciocínio sequencial em tarefas complexas",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "axios": "^1.6.7",
+    "dotenv": "^16.4.5",
+    "openai": "^4.28.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
